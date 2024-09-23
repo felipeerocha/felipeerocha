@@ -1,5 +1,5 @@
-## Olá, me chamo Felipe Rocha!🙋🏽 
-Sou estudante de Engenharia de Software na Universidade Católica de Brasília, focado em desenvolvimento Full Stack, com conhecimento em HTML, CSS, JavaScript, Laravel, Node.js e APIs RESTful. Atuo na modelagem de banco de dados SQL e utilizo metodologias ágeis como Scrum e Kanban para entregar soluções eficientes e escaláveis.
+## Hello, my name is Felipe Rocha!🙋🏽 
+I’m a Software Engineering student at the Catholic University of Brasília, focused on Full Stack development, with knowledge in HTML, CSS, JavaScript, Laravel, Node.js, and RESTful APIs. I work on SQL database modeling and use agile methodologies like Scrum and Kanban to deliver efficient and scalable solutions.
 
 #
 [![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://feliperocha.dev.br/)
@@ -9,7 +9,7 @@ Sou estudante de Engenharia de Software na Universidade Católica de Brasília, 
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeerocha&show_icons=true&theme=dark)
 
-## Tecnologias e Frameworks 
+## Technologies and Frameworks
 <div style="display: inline_block"><br>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,4 +21,4 @@ Sou estudante de Engenharia de Software na Universidade Católica de Brasília, 
 <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-#### "Transformando linhas de código em soluções criativas, bit a bit".
+#### "Turning lines of code into creative solutions, bit by bit."
