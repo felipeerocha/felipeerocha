@@ -1,5 +1,5 @@
 ## Hello, my name is Felipe Rocha!🙋🏽 
-I’m a Software Engineering student at the Catholic University of Brasília, focused on Full Stack development, with knowledge in HTML, CSS, JavaScript, Laravel, Node.js, and RESTful APIs. I work on SQL database modeling and use agile methodologies like Scrum and Kanban to deliver efficient and scalable solutions.
+I'm a Software Engineering student at the Catholic University of Brasília, focused on building digital solutions that combine efficiency and user experience. With expertise in Full Stack development, UI/UX Design, and Project Management, I aim to integrate innovation, intuitive design, and optimized processes into software development.
 
 #
 [![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://feliperocha.dev.br/)
